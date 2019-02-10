@@ -4,6 +4,7 @@ date: 2019-02-10
 title: 'Handle Multiple Inputs using React useState and useReducer Hooks with ES6 Computed Property Name'
 description: 'React forms can become unruly very quick. If you are adding an event handler for each input, you might be writing more code than you need to. With ES6 Computed Properties, you can use one event handler for all inputs that require the same action.'
 published: true
+keywords: ['React']
 author: 'Zac Jones'
 ---
 
