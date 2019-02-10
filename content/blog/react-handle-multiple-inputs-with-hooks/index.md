@@ -1,11 +1,10 @@
 ---
-slug: handle-multiple-inputs-in-react
+slug: handle-multiple-inputs-in-react-with-hooks
 date: 2019-02-10
 title: 'Handle Multiple Inputs using React useState and useReducer Hooks with ES6 Computed Property Name'
 description: 'React forms can become unruly very quick. If you are adding an event handler for each input, you might be writing more code than you need to. With ES6 Computed Properties, you can use one event handler for all inputs that require the same action.'
 published: true
 author: 'Zac Jones'
-banner: './banner.png'
 ---
 
 In my [previous post](www.zacjones.io/handle-multiple-inputs-in-react) I walk through a solution to handling multiple inputs in React using class Components and traditional Component state. This post is, in a sense, a refactoring of the previous post to update for React Hooks that have been [officially released as of React 16.8.0](https://github.com/facebook/react/blob/master/CHANGELOG.md#1680-february-6-2019).
