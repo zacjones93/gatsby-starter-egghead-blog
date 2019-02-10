@@ -6,7 +6,6 @@ description: 'React forms can become unruly very quick. If you are adding an eve
 published: true
 keywords: ['React']
 author: 'Zac Jones'
-banner: './banner.png'
 ---
 
 [create-react-app (CRA)](https://github.com/facebook/create-react-app) was used to generate the necessary boilerplate to start this React application. If you haven't used it before, you should! There is zero configuration and you won't need to touch Webpack or Babel. 😄

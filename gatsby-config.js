@@ -57,6 +57,12 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://gmail.us20.list-manage.com/subscribe/post?u=1561fdb01881ed94c00a3fd09&amp;id=2ad2765dc0', // see instructions section below
+      },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-emotion',
